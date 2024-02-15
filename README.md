@@ -1,4 +1,9 @@
 # VBA_Challenge
+
 Module 2 Assignment from Alex Lee
 
-This is my version of the spreadsheet with VBA codes included.
+The Assignment Sheets show the code that have been run on each sheet - I specified a particular worksheet and and ran the code on that.  For following years, it is the same code except I have changed the worksheet name - so 2018, 2019 and 2020.
+
+Also the screenshots are included, showing the summary data.
+
+I could not upload the Excel file in its entirety because it was too big - even after compressing it.
