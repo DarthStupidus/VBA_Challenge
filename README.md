@@ -7,3 +7,5 @@ The Assignment Sheets show the code that have been run on each sheet - I specifi
 Also the screenshots are included, showing the summary data.
 
 I could not upload the Excel file in its entirety because it was too big - even after compressing it.
+
+As this is my real first venture into VBA - other than using the Macro recorder - I did have to read around and practice the subject a fair bit to get a greater grasp!
